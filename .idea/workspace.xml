@@ -1,0 +1,1019 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec93810f-9121-457d-894f-abefa73e706c" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="howtographql" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/datamodel/package.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="451">
+              <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+              <folding>
+                <element signature="e#40#80#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/untitled.sc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/graphql/GraphQLServer.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="287">
+              <caret line="58" column="8" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="8" />
+              <folding>
+                <element signature="e#48#93#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/graphql/schema/GraphQLSchema.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="213">
+              <caret line="130" column="8" lean-forward="true" selection-start-line="130" selection-start-column="8" selection-end-line="130" selection-end-column="8" />
+              <folding>
+                <element signature="e#55#102#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.ivy2/cache/org.sangria-graphql/sangria_2.12/srcs/sangria_2.12-1.3.0-sources.jar!/sangria/schema/Context.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="122" column="58" selection-start-line="122" selection-start-column="52" selection-end-line="122" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/graphql/AuthMiddleware.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="51" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="51" />
+              <folding>
+                <element signature="e#48#95#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/db/DAO.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="158">
+              <caret line="23" column="19" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="19" />
+              <folding>
+                <element signature="e#43#64#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/MyContext.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="29" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="29" />
+              <folding>
+                <element signature="e#40#154#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Scala Object" />
+        <option value="Package Object" />
+        <option value="Scala Worksheet" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/build.sbt" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/models/mappings/Links" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/GraphQLServer.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/DAO.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/GraphQLSchema.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/models/package.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/DBSchema.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/mappings/LinksTable.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/graphqlschema/GraphQLSchema.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/graphql/schema/customtypes/package.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/graphql/Server.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/datamodel/Vote.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/datamodel/Link.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/datamodel/User.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/db/mappings/customcolumntype/package.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/db/mappings/UsersTable.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/db/mappings/LinksTable.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/datamodel/AuthProviderEmail.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/db/mappings/VotesTable.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/graphql/AuthMiddleware.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/db/mappings/AuthTokensTable.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/db/mappings/package.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/datamodel/package.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/untitled.sc" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/db/DBSchema.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/db/DAO.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/MyContext.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/Server.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/graphql/GraphQLServer.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/graphql/schema/GraphQLSchema.scala" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="981" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Course" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="howtographql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="howtographql" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="howtographql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="howtographql" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="howtographql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="howtographql" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="howtographql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="howtographql" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="howtographql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="howtographql" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="howtographql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="howtographql" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="howtographql" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="howtographql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="howtographql" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="howtographql" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="howtographql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="howtographql" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="howtographql" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="sangria" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="howtographql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="howtographql" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="howtographql" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="sangria" type="462c0819:PsiDirectoryNode" />
+              <item name="graphql" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="howtographql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="howtographql" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="howtographql" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="sangria" type="462c0819:PsiDirectoryNode" />
+              <item name="graphql" type="462c0819:PsiDirectoryNode" />
+              <item name="GraphQLServer$" type="ce8f04f3:TypeDefinitionNode" />
+            </path>
+            <path>
+              <item name="howtographql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="howtographql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="sbt: com.typesafe.akka:akka-http-core_2.12:10.0.10:jar" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="howtographql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="sbt: com.typesafe.akka:akka-http-core_2.12:10.0.10:jar" type="70bed36:NamedLibraryElementNode" />
+              <item name="akka-http-core_2.12-10.0.10.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="howtographql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="sbt: com.typesafe.akka:akka-http-core_2.12:10.0.10:jar" type="70bed36:NamedLibraryElementNode" />
+              <item name="akka-http-core_2.12-10.0.10.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="akka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="howtographql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="sbt: com.typesafe.akka:akka-http-core_2.12:10.0.10:jar" type="70bed36:NamedLibraryElementNode" />
+              <item name="akka-http-core_2.12-10.0.10.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="akka" type="462c0819:PsiDirectoryNode" />
+              <item name="http" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="howtographql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="sbt: com.typesafe.akka:akka-http-core_2.12:10.0.10:jar" type="70bed36:NamedLibraryElementNode" />
+              <item name="akka-http-core_2.12-10.0.10.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="akka" type="462c0819:PsiDirectoryNode" />
+              <item name="http" type="462c0819:PsiDirectoryNode" />
+              <item name="scaladsl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="howtographql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="sbt: com.typesafe.akka:akka-http-core_2.12:10.0.10:jar" type="70bed36:NamedLibraryElementNode" />
+              <item name="akka-http-core_2.12-10.0.10.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="akka" type="462c0819:PsiDirectoryNode" />
+              <item name="http" type="462c0819:PsiDirectoryNode" />
+              <item name="scaladsl" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="howtographql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="sbt: com.typesafe.akka:akka-http-core_2.12:10.0.10:jar" type="70bed36:NamedLibraryElementNode" />
+              <item name="akka-http-core_2.12-10.0.10.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="akka" type="462c0819:PsiDirectoryNode" />
+              <item name="http" type="462c0819:PsiDirectoryNode" />
+              <item name="scaladsl" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="headers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="howtographql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="sbt: com.typesafe.akka:akka-http-core_2.12:10.0.10:jar" type="70bed36:NamedLibraryElementNode" />
+              <item name="akka-http-core_2.12-10.0.10.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="akka" type="462c0819:PsiDirectoryNode" />
+              <item name="http" type="462c0819:PsiDirectoryNode" />
+              <item name="scaladsl" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="headers" type="462c0819:PsiDirectoryNode" />
+              <item name="BasicHttpCredentials.class" type="6117b065:FileNode" />
+            </path>
+            <path>
+              <item name="howtographql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="sbt: com.typesafe.akka:akka-http-core_2.12:10.0.10:jar" type="70bed36:NamedLibraryElementNode" />
+              <item name="akka-http-core_2.12-10.0.10.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="akka" type="462c0819:PsiDirectoryNode" />
+              <item name="http" type="462c0819:PsiDirectoryNode" />
+              <item name="scaladsl" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="headers" type="462c0819:PsiDirectoryNode" />
+              <item name="BasicHttpCredentials.class" type="6117b065:FileNode" />
+              <item name="BasicHttpCredentials" type="ce8f04f3:TypeDefinitionNode" />
+            </path>
+            <path>
+              <item name="howtographql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="sbt: org.sangria-graphql:sangria_2.12:1.3.0:jar" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="howtographql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="sbt: org.sangria-graphql:sangria_2.12:1.3.0:jar" type="70bed36:NamedLibraryElementNode" />
+              <item name="sangria_2.12-1.3.0.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="howtographql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="sbt: org.sangria-graphql:sangria_2.12:1.3.0:jar" type="70bed36:NamedLibraryElementNode" />
+              <item name="sangria_2.12-1.3.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="sangria" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="howtographql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="sbt: org.sangria-graphql:sangria_2.12:1.3.0:jar" type="70bed36:NamedLibraryElementNode" />
+              <item name="sangria_2.12-1.3.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="sangria" type="462c0819:PsiDirectoryNode" />
+              <item name="execution" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="howtographql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="sbt: org.sangria-graphql:sangria_2.12:1.3.0:jar" type="70bed36:NamedLibraryElementNode" />
+              <item name="sangria_2.12-1.3.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="sangria" type="462c0819:PsiDirectoryNode" />
+              <item name="execution" type="462c0819:PsiDirectoryNode" />
+              <item name="deferred" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="howtographql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="sbt: org.sangria-graphql:sangria_2.12:1.3.0:jar" type="70bed36:NamedLibraryElementNode" />
+              <item name="sangria_2.12-1.3.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="sangria" type="462c0819:PsiDirectoryNode" />
+              <item name="execution" type="462c0819:PsiDirectoryNode" />
+              <item name="deferred" type="462c0819:PsiDirectoryNode" />
+              <item name="Fetcher.class" type="6117b065:FileNode" />
+            </path>
+            <path>
+              <item name="howtographql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="sbt: org.sangria-graphql:sangria_2.12:1.3.0:jar" type="70bed36:NamedLibraryElementNode" />
+              <item name="sangria_2.12-1.3.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="sangria" type="462c0819:PsiDirectoryNode" />
+              <item name="execution" type="462c0819:PsiDirectoryNode" />
+              <item name="deferred" type="462c0819:PsiDirectoryNode" />
+              <item name="Fetcher.class" type="6117b065:FileNode" />
+              <item name="Fetcher$" type="ce8f04f3:TypeDefinitionNode" />
+            </path>
+            <path>
+              <item name="howtographql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="sbt: org.sangria-graphql:sangria_2.12:1.3.0:jar" type="70bed36:NamedLibraryElementNode" />
+              <item name="sangria_2.12-1.3.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="sangria" type="462c0819:PsiDirectoryNode" />
+              <item name="execution" type="462c0819:PsiDirectoryNode" />
+              <item name="MiddlewareBeforeField" type="ce8f04f3:TypeDefinitionNode" />
+            </path>
+            <path>
+              <item name="howtographql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="sbt: org.sangria-graphql:sangria_2.12:1.3.0:jar" type="70bed36:NamedLibraryElementNode" />
+              <item name="sangria_2.12-1.3.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="sangria" type="462c0819:PsiDirectoryNode" />
+              <item name="schema" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="howtographql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="sbt: org.sangria-graphql:sangria_2.12:1.3.0:jar" type="70bed36:NamedLibraryElementNode" />
+              <item name="sangria_2.12-1.3.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="sangria" type="462c0819:PsiDirectoryNode" />
+              <item name="schema" type="462c0819:PsiDirectoryNode" />
+              <item name="Field.class" type="6117b065:FileNode" />
+            </path>
+            <path>
+              <item name="howtographql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="sbt: org.sangria-graphql:sangria_2.12:1.3.0:jar" type="70bed36:NamedLibraryElementNode" />
+              <item name="sangria_2.12-1.3.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="sangria" type="462c0819:PsiDirectoryNode" />
+              <item name="schema" type="462c0819:PsiDirectoryNode" />
+              <item name="Field.class" type="6117b065:FileNode" />
+              <item name="Field$" type="ce8f04f3:TypeDefinitionNode" />
+            </path>
+            <path>
+              <item name="howtographql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="sbt: org.sangria-graphql:sangria_2.12:1.3.0:jar" type="70bed36:NamedLibraryElementNode" />
+              <item name="sangria_2.12-1.3.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="sangria" type="462c0819:PsiDirectoryNode" />
+              <item name="schema" type="462c0819:PsiDirectoryNode" />
+              <item name="UpdateCtx.class" type="6117b065:FileNode" />
+            </path>
+            <path>
+              <item name="howtographql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="sbt: org.sangria-graphql:sangria_2.12:1.3.0:jar" type="70bed36:NamedLibraryElementNode" />
+              <item name="sangria_2.12-1.3.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="sangria" type="462c0819:PsiDirectoryNode" />
+              <item name="schema" type="462c0819:PsiDirectoryNode" />
+              <item name="UpdateCtx.class" type="6117b065:FileNode" />
+              <item name="UpdateCtx$" type="ce8f04f3:TypeDefinitionNode" />
+            </path>
+            <path>
+              <item name="howtographql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="sbt: org.scala-lang:scala-library:2.12.3:jar" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="howtographql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="sbt: org.scala-lang:scala-library:2.12.3:jar" type="70bed36:NamedLibraryElementNode" />
+              <item name="scala-library-2.12.3.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="howtographql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="sbt: org.scala-lang:scala-library:2.12.3:jar" type="70bed36:NamedLibraryElementNode" />
+              <item name="scala-library-2.12.3.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="howtographql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="sbt: org.scala-lang:scala-library:2.12.3:jar" type="70bed36:NamedLibraryElementNode" />
+              <item name="scala-library-2.12.3.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="howtographql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="sbt: org.scala-lang:scala-library:2.12.3:jar" type="70bed36:NamedLibraryElementNode" />
+              <item name="scala-library-2.12.3.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
+              <item name="duration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="howtographql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="sbt: org.scala-lang:scala-library:2.12.3:jar" type="70bed36:NamedLibraryElementNode" />
+              <item name="scala-library-2.12.3.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
+              <item name="duration" type="462c0819:PsiDirectoryNode" />
+              <item name="package$" type="34d97a35:PackageObjectNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562240690744" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.sbt" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="howtographql" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="howtographql [file:/Users/valterfernandes/IdeaProjects/howtographql/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="howtographql-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="550660579" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="924338670" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="3875534415" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Downloads/async" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/example" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/miniProject" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../OverSite" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Tick-Tock" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../filtersV2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../filtersV2_2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../jba-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../play-api-url-versioned" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../play-slick-to-and-from-db" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../risc-emulator-workshop" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../url-versioned-api" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="intInjectionMapping">
+      <map>
+        <entry key="xml" value="XML" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec93810f-9121-457d-894f-abefa73e706c" name="Default Changelist" comment="" />
+      <created>1560355892223</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560355892223</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="981" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49832216" visible="true" weight="0.25579977" />
+      <window_info id="Structure" order="1" sideWeight="0.5016779" side_tool="true" weight="0.25579977" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295838" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.3295838" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3295838" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="sbt" order="5" weight="0.32967034" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Gradle" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/project/build.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/plugins.sbt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/mappings/LinksTable" />
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.3-sources.jar!/scala/collection/immutable/Map.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/io.spray/spray-json_2.12/srcs/spray-json_2.12-1.3.3-sources.jar!/spray/json/JsValue.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-643">
+          <caret line="25" column="29" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.sangria-graphql/sangria_2.12/srcs/sangria_2.12-1.3.0-sources.jar!/sangria/parser/QueryParser.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="381" column="36" selection-start-line="381" selection-start-column="30" selection-end-line="381" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-http_2.12/srcs/akka-http_2.12-10.0.10-sources.jar!/akka/http/scaladsl/server/directives/RouteDirectives.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="45" column="6" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/GraphQLSchema.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/GraphQLServer.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/DBSchema.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/graphql/GraphQLSchema.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/graphql/Server.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/datamodel/Vote.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/datamodel/Link.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/datamodel/User.scala" />
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.3-sources.jar!/scala/concurrent/package.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="210" column="85" selection-start-line="210" selection-start-column="57" selection-end-line="210" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/db/mappings/customcolumntypes/package.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.sangria-graphql/sangria_2.12/srcs/sangria_2.12-1.3.0-sources.jar!/sangria/execution/deferred/DeferredResolver.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/datamodel/AuthProviderEmail.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/graphql/schema/customtypes/package.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="80" selection-start-line="12" selection-start-column="80" selection-end-line="12" selection-end-column="80" />
+          <folding>
+            <element signature="e#55#95#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/db/mappings/UsersTable.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="45" />
+          <folding>
+            <element signature="e#52#104#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.sangria-graphql/sangria_2.12/srcs/sangria_2.12-1.3.0-sources.jar!/sangria/execution/deferred/FetcherBasedDeferredResolver.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.sangria-graphql/sangria_2.12/srcs/sangria_2.12-1.3.0-sources.jar!/sangria/execution/deferred/Fetcher.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="99" column="6" selection-start-line="99" selection-start-column="6" selection-end-line="99" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.sangria-graphql/sangria_2.12/srcs/sangria_2.12-1.3.0-sources.jar!/sangria/execution/middleware.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="86" column="49" lean-forward="true" selection-start-line="86" selection-start-column="19" selection-end-line="86" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.3-sources.jar!/scala/concurrent/duration/package.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-254">
+          <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/db/mappings/VotesTable.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#52#104#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/db/mappings/LinksTable.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="37" selection-start-line="4" selection-end-line="5" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.sangria-graphql/sangria_2.12/srcs/sangria_2.12-1.3.0-sources.jar!/sangria/schema/Schema.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="336" column="31" selection-start-line="336" selection-start-column="28" selection-end-line="336" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/db/mappings/package.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/db/mappings/AuthTokensTable.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-end-line="3" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-http-core_2.12/srcs/akka-http-core_2.12-10.0.10-sources.jar!/akka/http/scaladsl/model/headers/HttpCredentials.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/db/DBSchema.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="21" column="49" lean-forward="true" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="55" />
+          <folding>
+            <element signature="e#43#83#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/Server.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="27" />
+          <folding>
+            <element signature="e#40#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/untitled.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.sangria-graphql/sangria_2.12/srcs/sangria_2.12-1.3.0-sources.jar!/sangria/schema/Context.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="122" column="58" selection-start-line="122" selection-start-column="52" selection-end-line="122" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/datamodel/package.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+          <folding>
+            <element signature="e#40#80#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/graphql/AuthMiddleware.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="51" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="51" />
+          <folding>
+            <element signature="e#48#95#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/db/DAO.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="19" />
+          <folding>
+            <element signature="e#43#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/MyContext.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="29" />
+          <folding>
+            <element signature="e#40#154#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/graphql/schema/GraphQLSchema.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="130" column="8" lean-forward="true" selection-start-line="130" selection-start-column="8" selection-end-line="130" selection-end-column="8" />
+          <folding>
+            <element signature="e#55#102#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/graphql/GraphQLServer.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="58" column="8" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="8" />
+          <folding>
+            <element signature="e#48#93#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.12.4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4025" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.12.4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
