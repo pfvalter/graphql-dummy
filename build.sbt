@@ -1,4 +1,4 @@
-name := "howtographql"
+name := "graphql-dummy"
 
 version := "1.0"
 
